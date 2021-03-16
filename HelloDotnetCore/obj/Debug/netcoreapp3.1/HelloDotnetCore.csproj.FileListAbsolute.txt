@@ -1,0 +1,12 @@
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.deps.json
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.runtimeconfig.json
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.runtimeconfig.dev.json
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.dll
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/bin/Debug/netcoreapp3.1/HelloDotnetCore.pdb
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.csprojAssemblyReference.cache
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.AssemblyInfoInputs.cache
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.AssemblyInfo.cs
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.csproj.CoreCompileInputs.cache
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.dll
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.pdb
+/Users/shixiaoyong/Projects/HelloDotnetCore/HelloDotnetCore/obj/Debug/netcoreapp3.1/HelloDotnetCore.genruntimeconfig.cache
